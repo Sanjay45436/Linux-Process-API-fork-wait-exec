@@ -50,8 +50,6 @@ int main() {
 ```
 
 
-
-
 ## OUTPUT
 
 
@@ -110,9 +108,6 @@ int main() {
 }
 
 
-
-
-
 ```
 
 
@@ -120,10 +115,6 @@ int main() {
 
 
 <img width="732" height="379" alt="image" src="https://github.com/user-attachments/assets/cac38815-16a1-438c-96f5-4af61e0c8f4d" />
-
-
-
-
 
 
 
